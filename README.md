@@ -9,7 +9,7 @@ This repository contains frontend projects I’m building to practice and improv
 A recreation of the Amazon sign in page using HTML and CSS.  
 
 ### 🖼️ Photography Gallery
-A responsive photo gallery layout with hover effects. 
+A photo gallery layout with hover effects. 
 
 ---
 More projects will be added soon as I continue learning!
