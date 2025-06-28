@@ -6,7 +6,7 @@ This repository contains frontend projects I’m building to practice and improv
 ## 📁 Projects Included
 
 ### 🛒 Amazon Landing Page
-A recreation of the Amazon homepage using HTML and CSS.  
+A recreation of the Amazon sign in page using HTML and CSS.  
 
 ### 🖼️ Photography Gallery
 A responsive photo gallery layout with hover effects. 
